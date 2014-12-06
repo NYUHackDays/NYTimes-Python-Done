@@ -13,3 +13,4 @@ New York Times
 - Hook up searchArticle function to main route
 - Use other NYTimes API
 - Workshop where people get to explore the API
+- AIM is to get people to a level where they can get started on a project
